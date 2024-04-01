@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es Antonio Tenorio 👋
+# ![https://mouredev.com](https://www.grsinformatica.com/wp-content/uploads/2015/04/Tecnico_soporte_usuarios.png) Hola, mi nombre es Antonio Tenorio 👋
 ### Freelance full-stack iOS & Android engineer
 
 <!--

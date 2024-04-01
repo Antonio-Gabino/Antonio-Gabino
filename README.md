@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# !([https://www.grsinformatica.com/wp-content/uploads/2015/04/Tecnico_soporte_usuarios.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnKPL_1K82--PZOg9l789Pmta_y19xwlHqbg&usqp=CAU)) Hola, mi nombre es Antonio Tenorio 👋
+# https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnKPL_1K82--PZOg9l789Pmta_y19xwlHqbg&usqp=CAU Hola, mi nombre es Antonio Tenorio 👋
 ### Freelance full-stack iOS & Android engineer
 
 <!--

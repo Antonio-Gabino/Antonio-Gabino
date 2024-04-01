@@ -2,7 +2,7 @@
 
 # ![https://mouredev.com](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYoWJ-7B_7-_FQcKa_Y2Aqc8WwWoBiQp6ICQ&usqp=CAU) Hola, mi nombre es Antonio Tenorio Gañán 👋
 ### I am a computer science student at IES Rodrigo Caro.
-
+👯 I’m looking to collaborate on ...
 <!--
 **Antonio-Gabino/Antonio-Gabino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:

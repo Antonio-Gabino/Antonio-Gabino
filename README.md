@@ -13,6 +13,6 @@ Me encanta la informática y la estudio por placer, aunque reconozco que me enor
 ### Teléfono: 691162607
 
 https://youtu.be/JFBNP-4J8aQ
-![]("Sin título.jpeg")
+![](tulo.jpeg)
 
 

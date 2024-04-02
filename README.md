@@ -15,4 +15,4 @@ Me encanta la informática y la estudio por placer, aunque reconozco que me enor
 https://youtu.be/JFBNP-4J8aQ
 ![](tulo.jpeg)
 
-[h](HTML_basico.pdf)
+[CURSO HTML](HTML_basico.pdf)

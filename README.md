@@ -12,6 +12,7 @@ Me encanta la informática y la estudio por placer, aunque reconozco que me enor
 ### Email: smr.gabino@gmail.com
 ### Teléfono: 691162607
 
-![](Sin título.jpeg)
+https://youtu.be/JFBNP-4J8aQ
+![]("Sin título.jpeg")
 
 

@@ -8,4 +8,10 @@ Me encanta la informática y la estudio por placer, aunque reconozco que me enor
 
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/xqrYch2v/Sin-t-tulo.jpg' border='0' alt='Sin-t-tulo'/></a>
 
+## INFORMACIÓN GENERAL
+### Email: smr.gabino@gmail.com
+### Teléfono: 691162607
+
+![](Sin título.jpeg)
+
 

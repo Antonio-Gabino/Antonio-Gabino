@@ -14,8 +14,11 @@
 ### Lo que encontrarás aquí
 
 - **Proyectos personales:** Explora algunos de los proyectos en los que he estado trabajando.
-- **Contribuciones:** Echa un vistazo a mis contribuciones a proyectos de código abierto.
+- 📙  [Currículum Vitae](Memoria_Dpto.ASPBSP_31-10-2019.pdf)
+- **Contribuciones:** Echa un vistazo a mis cursos de formación de código abierto.
 - **Artículos y tutoriales:** Encuentra recursos útiles y tutoriales sobre [Tecnologías/Áreas de Interés].
+- 📚  [CURSO HTML](HTML_basico.pdf)
+
 
 ### Datos de contacto
 
@@ -29,4 +32,4 @@
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/xqrYch2v/Sin-t-tulo.jpg' border='0' alt='Sin-t-tulo'/></a>
 
 
-[CURSO HTML](HTML_basico.pdf)
+

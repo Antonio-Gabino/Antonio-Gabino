@@ -22,14 +22,11 @@
 - 📫 Puedes contactarme a través de los siguientes correos electrónicos [smr.gabino@gmail.com][agtengan@admon.upo.es].
 - ☎  691162607.
 
-
+### Datos de interés
 
 (https://www.upo.es/departamento-antropologia-social-psicologia-basica-y-salud-publica/es/)
 
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/xqrYch2v/Sin-t-tulo.jpg' border='0' alt='Sin-t-tulo'/></a>
 
-## INFORMACIÓN GENERAL
-### Email: smr.gabino@gmail.com
-### Teléfono: 691162607
 
 [CURSO HTML](HTML_basico.pdf)

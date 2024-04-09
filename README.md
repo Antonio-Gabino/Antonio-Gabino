@@ -15,7 +15,6 @@
 
 - **Proyectos personales:** Explora algunos de los proyectos en los que he estado trabajando.
 - 📙  [Currículum Vitae](Memoria_Dpto_ASPBSP.pdf)
-- **Contribuciones:** Echa un vistazo a mis cursos de formación de código abierto.
 - **Artículos y tutoriales:** Encuentra recursos útiles y tutoriales sobre [Tecnologías/Áreas de Interés].
 - 📚  [CURSO HTML](HTML_basico.pdf)
 

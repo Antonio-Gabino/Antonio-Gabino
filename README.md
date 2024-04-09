@@ -7,6 +7,7 @@
 - 💼 Funcionario de la Universidad Pablo de Olavide, como Responsable de Gestión del Departamento de Antropología Social, Psicología Básica y Salud Pública.
 - 👨‍🎓 Técnico de Grado Medio en Sistemas Microinformáticos y en Red, cursando en la actualidad el Grado Superior en Administración de Sistemas y Redes. 
 - 💻 Técnico de software y hardware con más de 15 años de experiencia en el arreglo de averías de equipos electrónicos.
+- 🗳  Representante de la Administración en las elecciones municipales, autonómicas y europeas.
 - 🌱 Siempre aprendiendo y explorando nuevas tecnologías.
 - 🚀 Apasionado por aprender nuevos conocimientos que den solución a los proyectos que se presentan en el día a día, y que estos, tengan un impacto positivo en la vida de las personas.
 
@@ -16,11 +17,10 @@
 - **Contribuciones:** Echa un vistazo a mis contribuciones a proyectos de código abierto.
 - **Artículos y tutoriales:** Encuentra recursos útiles y tutoriales sobre [Tecnologías/Áreas de Interés].
 
-### Contáctame
+### Datos de contacto
 
-- 📫 Puedes contactarme a través de mi [Sitio Web/Correo Electrónico/Redes Sociales].
-
-¡No dudes en explorar mis repositorios y conectarte conmigo! ¡Espero que encuentres algo interesante aquí!
+- 📫 Puedes contactarme a través de los siguientes correos electrónicos [smr.gabino@gmail.com][agtengan@admon.upo.es].
+- ☎  691162607.
 
 
 

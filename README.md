@@ -2,7 +2,7 @@
 
 ¡Hola! Soy Antonio Tenorio, un entusiasta y apasionado del mundo de la informática. Arreglo equipos, doy soluciones innovadoras, y mi aprendizaje es continuo. Este es mi espacio en GitHub donde comparto proyectos interesantes y colaboro con otros técnicos/as en la constante búsqueda de nueva soluciones a las averías de los equipos.
 
-### Acerca de mí
+## Acerca de mí
 
 - 💼 Funcionario de la Universidad Pablo de Olavide, como Responsable de Gestión del Departamento de Antropología Social, Psicología Básica y Salud Pública.
 - 👨‍🎓 Técnico de Grado Medio en Sistemas Microinformáticos y en Red, cursando en la actualidad el Grado Superior en Administración de Sistemas y Redes. 

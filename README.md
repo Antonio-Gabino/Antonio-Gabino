@@ -11,6 +11,8 @@
 - 🌱 Siempre aprendiendo y explorando nuevas tecnologías.
 - 🚀 Apasionado por aprender nuevos conocimientos que den solución a los proyectos que se presentan en el día a día, y que estos, tengan un impacto positivo en la vida de las personas.
 
+## 🛠️ Habilidades
+
 ## Lo que encontrarás aquí
 
 - **Proyectos personales:** Explora algunos de los proyectos en los que he estado trabajando.

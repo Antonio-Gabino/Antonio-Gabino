@@ -15,13 +15,15 @@
 - Trabajo en equipo.
 - Responsable.
 - Puntualidad y compromiso.
-- Habilidad para aprender.
+- Habilidad  y ganas para aprender.
 - Atención al cliente.
 - Flexibilidad y adaptabilidad.
 - Empatía.
 - Creatividad.
 - Comunicación efectiva.
 - Resolución de problemas.
+- Entusiasmo.
+- Confianza en si mismo.
 ## Cursos
 | Nombre |
 |        |

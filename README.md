@@ -4,7 +4,7 @@
 
 ## Acerca de mí
 
-- 💼 Funcionario de la Universidad Pablo de Olavide, como Responsable de Gestión del Departamento de Antropología Social, Psicología Básica y Salud Pública.
+- 💼 Funcionario de carrera de la Universidad Pablo de Olavide, como Responsable de Gestión del Departamento de Antropología Social, Psicología Básica y Salud Pública.
 - 👨‍🎓 Técnico de Grado Medio en Sistemas Microinformáticos y en Red, cursando en la actualidad el Grado Superior en Administración de Sistemas Informáticos y en Red. 
 - 💻 Técnico de software y hardware con más de 15 años de experiencia en el arreglo de averías de equipos electrónicos.
 - 🗳  Representante de la Administración en las elecciones municipales, autonómicas y europeas.
@@ -12,7 +12,16 @@
 - 🚀 Apasionado por aprender nuevos conocimientos que den solución a los proyectos que se presentan en el día a día, y que estos, tengan un impacto positivo en la vida de las personas.
 
 ## 🛠️ Habilidades
-
+- Trabajo en equipo.
+- Responsable.
+- Puntualidad y compromiso.
+- Habilidad para aprender.
+- Atención al cliente.
+- Flexibilidad y adaptabilidad.
+- Empatía.
+- Creatividad.
+- Comunicación efectiva.
+- Resolución de problemas.
 ## Cursos
 
 ## Lo que encontrarás aquí

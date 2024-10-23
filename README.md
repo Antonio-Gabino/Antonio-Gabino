@@ -24,7 +24,7 @@
 - Resolución de problemas.
 - Entusiasmo.
 - Confianza en si mismo.
-## Cursos
+## ✍ Cursos
 |      Acción Formativa      | Número de horas |
 |----------------------------|-----------------|
 | PowerShell (Principiantes) |        4        |

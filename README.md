@@ -27,8 +27,12 @@
 ## Cursos
 |      Acción Formativa      | Número de horas |
 |----------------------------|-----------------|
-| PowerShell (Principiantes) |                 |                 |
-|                            |                 |
+| PowerShell (Principiantes) |        4        |
+| PowerShell (Administrador) |                 |
+| Windows 10 y 11            |                 |
+| Excel (Avanzado)           |                 |
+| Word (Avanzado)            |                 |
+| Access (Avanzado)          |                 |
 |                            |                 |
 ## Lo que encontrarás aquí
 

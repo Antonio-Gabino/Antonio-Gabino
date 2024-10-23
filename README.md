@@ -25,9 +25,11 @@
 - Entusiasmo.
 - Confianza en si mismo.
 ## Cursos
-| Nombre |
-|        |
-|        |
+|      Acción Formativa      | Número de horas |
+|----------------------------|-----------------|
+| PowerShell (Principiantes) |                 |                 |
+|                            |                 |
+|                            |                 |
 ## Lo que encontrarás aquí
 
 - **Proyectos personales:** Explora algunos de los proyectos en los que he estado trabajando.

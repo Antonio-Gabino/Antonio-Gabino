@@ -56,10 +56,8 @@
 | PowerShell (Administrador)                                          |   4   | 2024 | 
 
 ## 🧑‍💻Conocimientos Informáticos.
-*BSCW*
-
-*OpenCms*
-
+*BSCW*.
+*OpenCms*.
 *W@ndA*.
 *Sistemas Operativos Windows 7, 10 y 11*.
 *Aplicaciones Ofimáticas: Microsoft Office 2010, 2016 y 2019*.

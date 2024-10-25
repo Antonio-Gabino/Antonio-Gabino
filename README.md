@@ -58,19 +58,19 @@
 ## 🧑‍💻Conocimientos Informáticos.
 1. *BSCW*.
 2. *OpenCms*.
-*W@ndA*.
-*Sistemas Operativos Windows 7, 10 y 11*.
-*Aplicaciones Ofimáticas: Microsoft Office 2010, 2016 y 2019*.
-*Navegadores: Mozilla Firefox, Google Chrome e Internet Explorer*.
-*Correo Electrónico: Mozilla Thunderbird, Webmail*.
-*Adobe Acrobat XI Pro*.
-*Registro Electrónico (Sede Electrónica)*.
-*Certificado Electrónico de Identidad*.
-*Lenguaje de Programación: Python, JavaScript, C# y Java*.
-*Bases de Datos: MySQL, PostgreSQL, MongoDB*.
-*DevoOps: Docker, Kubernetes, Jenkins*.
-*Redes y Seguridad: Administración de Servidores, configuración de Firewalls, Seguridad en Redes (CISSP)*.
-*Cloud: AWS, Azure, Google Cloud*.
+3. *W@ndA*.
+4. *Sistemas Operativos Windows 7, 10 y 11*.
+5. *Aplicaciones Ofimáticas: Microsoft Office 2010, 2016 y 2019*.
+6. *Navegadores: Mozilla Firefox, Google Chrome e Internet Explorer*.
+7. *Correo Electrónico: Mozilla Thunderbird, Webmail*.
+8. *Adobe Acrobat XI Pro*.
+9. *Registro Electrónico (Sede Electrónica)*.
+10. *Certificado Electrónico de Identidad*.
+11. *Lenguaje de Programación: Python, JavaScript, C# y Java*.
+12. *Bases de Datos: MySQL, PostgreSQL, MongoDB*.
+13. *DevoOps: Docker, Kubernetes, Jenkins*.
+14. *Redes y Seguridad: Administración de Servidores, configuración de Firewalls, Seguridad en Redes (CISSP)*.
+15. *Cloud: AWS, Azure, Google Cloud*.
 
 ## 🧑‍🔧Experiencia Profesional
 #### Desde 12 de septiembre 2018 hasta la actualidad.

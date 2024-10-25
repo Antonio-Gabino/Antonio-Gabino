@@ -58,8 +58,10 @@
 ## 🧑‍🔧Experiencia Profesional
 #### Desde 12 de septiembre 2018 hasta la actualidad.
 > Funcionario de Carrera de la Escala Administrativa de la Universidad Pablo de Olavide prestando servicio como Responsable de Gestión en el Departamento de Antropología Social, Psicología Básica y Salud Pública.
+#### Desde 12 marzo de 2015 hasta 11 septiembre de 2018.
+> Funcionario de Carrera de la Escala Administrativa de la Universidad Pablo de Olavide prestando servicio como Administrativo en el Área de Investigación.
 
-> Funcionario de Carrera de la Escala Administrativa de la Universidad Pablo de Olavide prestando servicio como Administrativo en el Área de Investigación. 
+>  
 
 ## Lo que encontrarás aquí
 

@@ -56,8 +56,21 @@
 | PowerShell (Administrador)                                          |   4   | 2024 | 
 
 ## 🧑‍💻Conocimientos Informáticos.
-* BSCW *
-* 
+*BSCW*.
+*OpenCms*.
+*W@ndA*.
+*Sistemas Operativos Windows 7, 10 y 11*.
+*Aplicaciones Ofimáticas: Microsoft Office 2010, 2016 y 2019*.
+*Navegadores: Mozilla Firefox, Google Chrome e Internet Explorer*.
+*Correo Electrónico: Mozilla Thunderbird, Webmail*.
+*Adobe Acrobat XI Pro*.
+*Registro Electrónico (Sede Electrónica)*.
+*Certificado Electrónico de Identidad*.
+*Lenguaje de Programación: Python, JavaScript, C# y Java*.
+*Bases de Datos: MySQL, PostgreSQL, MongoDB*.
+*DevoOps: Docker, Kubernetes, Jenkins*.
+*Redes y Seguridad: Administración de Servidores, configuración de Firewalls, Seguridad en Redes (CISSP)*.
+*Cloud: AWS, Azure, Google Cloud*.
 
 ## 🧑‍🔧Experiencia Profesional
 #### Desde 12 de septiembre 2018 hasta la actualidad.

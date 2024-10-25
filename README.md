@@ -29,22 +29,32 @@
 
 |      Acción Formativa                                               | horas | Año  |
 |---------------------------------------------------------------------|-------|------|
+| Base de Datos                                                       |   30  | 2000 |      
 | Internet                                                            |   15  | 2002 |
 | Comunicación y Atención al Usuario                                  |   15  | 2003 |
 | Herramientas Informáticas                                           |   8   | 2003 |
+| Registrador de Certificaciones Digitales                            |   4   | 2005 |
 | Habilidades para la Comunicación                                    |   12  | 2006 |
 | Administración Electrónica                                          |   16  | 2008 |
-| Interacción con la Ciudadania Mediación y Resolución de Conflictos  |   20  | 2009 | 
-| Windows 10 y 11                                                     |   25  | 2017 |
-| Excel (Avanzado)                                                    |   15  | 2017 |
-| Word (Avanzado)                                                     |   15  | 2017 |
-| Access (Avanzado)                                                   |       |      |
-|                                                                     |       |      |
-|                                                                     |       |      |
-|                                                                     |       |      |
-|                                                                     |       |      |
-| PowerShell (Principiantes)                                          |   2   |      |
-| PowerShell (Administrador)                                          |   4   |      | 
+| Interacción con la Ciudadania                                       |   20  | 2009 |
+| Mediación y Resolución de Conflictos                                |   20  | 2009 |
+| Habilidades para las relaciones Interpersonales                     |   14  | 2009 |
+| Trabajo en Grupos                                                   |   12  | 2010 |
+| Introducción a la Firma Electrónica                                 |   8   | 2011 |
+| Seminario Consultas Avanzadas y Tablas con Access 2010              |   18  | 2016 |
+| Seminario Manejo de Datos y Funciones con Excel 2010                |   7   | 2016 |
+| Windows XP, 10 y 11                                                 |   30  | 2017 |
+| Excel (Expertos)                                                    |   15  | 2017 |
+| Word (Expertos)                                                     |   15  | 2017 |
+| Access (Expertos)                                                   |   15  | 2017 |     
+| Presentaciones Dinámicas con Prezi                                  |   4   | 2017 |
+| Inglés                                                              |   90  | 2017 |
+| Inglé                                                               |   80  | 2018 |
+| Comunicación Asertiva                                               |   8   | 2018 |
+| Habilidades para el Teletrabajo                                     |   2   | 2024 | 
+| PowerShell (Principiantes)                                          |   2   | 2024 |
+| PowerShell (Administrador)                                          |   4   | 2024 | 
+
 ## Lo que encontrarás aquí
 
 - **Proyectos personales:** Explora algunos de los proyectos en los que he estado trabajando.

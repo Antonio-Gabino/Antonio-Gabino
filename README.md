@@ -74,7 +74,5 @@
 
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/xqrYch2v/Sin-t-tulo.jpg' border='0' alt='Sin-t-tulo'/></a>
 
-fechactual=$(date)
-
 
 

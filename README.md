@@ -57,7 +57,9 @@
 
 ## 🧑‍💻Conocimientos Informáticos.
 *BSCW*
+
 *OpenCms*
+
 *W@ndA*.
 *Sistemas Operativos Windows 7, 10 y 11*.
 *Aplicaciones Ofimáticas: Microsoft Office 2010, 2016 y 2019*.

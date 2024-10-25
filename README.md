@@ -60,9 +60,16 @@
 > Funcionario de Carrera de la Escala Administrativa de la Universidad Pablo de Olavide prestando servicio como Responsable de Gestión en el Departamento de Antropología Social, Psicología Básica y Salud Pública.
 #### Desde 12 marzo de 2015 hasta 11 septiembre de 2018.
 > Funcionario de Carrera de la Escala Administrativa de la Universidad Pablo de Olavide prestando servicio como Administrativo en el Área de Investigación.
-
->  
-
+#### Desde 12 septiembre de 2014 hasta 11 marzo de 2015.
+>  Funcionario de Carrera de la Escala Administrativa de la Universidad Pablo de Olavide prestando servicio como Responsable de Gestión en el Departamento de Antropología Social, Psicología Básica y Salud Pública.
+#### Desde 01 enero de 2014 hasta 11 septiembre de 2014.
+> Funcionario de Carrera de la Escala Administrativa de la Universidad Pablo de Olavide prestando servicio como Administrativo en el Área de Investigación.
+#### Desde 13 abril de 2009 hasta 31 diciembre de 2013.
+> Funcionario de Carrera de la Escala Administrativa de la Universidad Pablo de Olavide prestando servicio como Apoyo a Departamentos (Gestión de la Investigación) en el Departamento de Economía, Métodos Cuantitativos e Historia Económica.
+#### Desde el 25 noviembre 2004 hasta 12 abril de 2009.
+> Funcionario de Carrera de la Escala Administrativa de la Universidad Pablo de Olavide prestando servicio como Administrativo en el Área de Asuntos Generales (Registro General).
+#### Desde 21 enero de 2002 hasta 24 noviembre de 2004.
+> Funcionario Interino de la Escala Auxiliar Administrativo de la Universidad Pablo de Olavide prestando servicio como Auxiliar Administrativo en la Unidad de Asuntos Generales (Registro General).
 ## Lo que encontrarás aquí
 
 - **Proyectos personales:** Explora algunos de los proyectos en los que he estado trabajando.

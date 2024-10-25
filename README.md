@@ -55,6 +55,10 @@
 | PowerShell (Principiantes)                                          |   2   | 2024 |
 | PowerShell (Administrador)                                          |   4   | 2024 | 
 
+## 🧑‍💻Conocimientos Informáticos.
+* BSCW *
+* 
+
 ## 🧑‍🔧Experiencia Profesional
 #### Desde 12 de septiembre 2018 hasta la actualidad.
 > Funcionario de Carrera de la Escala Administrativa de la Universidad Pablo de Olavide prestando servicio como Responsable de Gestión en el Departamento de Antropología Social, Psicología Básica y Salud Pública.

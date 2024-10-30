@@ -60,7 +60,7 @@
 2. *OpenCms*.
 3. *W@ndA*.
 4. *Sistemas Operativos Windows 7, 10 y 11*.
-5. *Aplicaciones Ofimáticas: Microsoft Office 2010, 2016 y 2019*.
+5. *Aplicaciones Ofimáticas: Microsoft Office 2010, 2016, 2019, 2024 y 365*.
 6. *Navegadores: Mozilla Firefox, Google Chrome e Internet Explorer*.
 7. *Correo Electrónico: Mozilla Thunderbird, Webmail*.
 8. *Adobe Acrobat XI Pro*.

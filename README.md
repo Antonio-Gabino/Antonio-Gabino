@@ -1,4 +1,4 @@
-## ¡Bienvenido a mi perfil de GitHub! 👋
+## ¡Currículum de Antonio Tenorio! 👋
 
 ¡Hola! Soy Antonio Tenorio, un entusiasta y apasionado del mundo de la informática. Arreglo equipos, doy soluciones innovadoras, y mi aprendizaje es continuo. Este es mi espacio en GitHub donde comparto proyectos interesantes y colaboro con otros técnicos/as en la constante búsqueda de nueva soluciones a las averías de los equipos.
 

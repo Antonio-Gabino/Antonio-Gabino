@@ -5,8 +5,9 @@
 ## Acerca de mí
 
 - 💼 Funcionario de carrera de la Universidad Pablo de Olavide, como Responsable de Gestión del Departamento de Antropología Social, Psicología Básica y Salud Pública.
-- 👨‍🎓 Técnico de Grado Medio en Sistemas Microinformáticos y en Red, cursando en la actualidad el Grado Superior en Administración de Sistemas Informáticos y en Red. 
-- 💻 Técnico de software y hardware con más de 15 años de experiencia en el arreglo de averías de equipos electrónicos.
+- 👨‍🎓 Técnico de Grado Medio en Sistemas Microinformáticos y en Red.
+- 👨‍🎓 Técnico Superior en Administración de Sistemas Informáticos en Red (ASIR).
+- 💻 Técnico de software y hardware con más de 18 años de experiencia en el arreglo de averías de equipos electrónicos.
 - 🗳  Representante de la Administración en las elecciones municipales, autonómicas y europeas.
 - 🌱 Siempre aprendiendo y explorando nuevas tecnologías.
 - 🚀 Apasionado por aprender nuevos conocimientos que den solución a los proyectos que se presentan en el día a día, y que estos, tengan un impacto positivo en la vida de las personas.
